@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/sonarlint/issuestore/5/5/55e039030bfe49c1f5926af170478ac289456758
+/sonarlint/securityhotspotstore/5/5/55e039030bfe49c1f5926af170478ac289456758
+/sonarlint/issuestore/6/3/639ce7338a72a6a3a564a62d99ce0e2a7bc7da56
+/sonarlint/securityhotspotstore/6/3/639ce7338a72a6a3a564a62d99ce0e2a7bc7da56
+/sonarlint/issuestore/8/5/855bf301817746daccb167b02be45a45ffc22f7b
+/sonarlint/securityhotspotstore/8/5/855bf301817746daccb167b02be45a45ffc22f7b
+/sonarlint/issuestore/f/a/fad23e6c1bc7bd647393acab5399a4f457ecc93a
+/sonarlint/securityhotspotstore/f/a/fad23e6c1bc7bd647393acab5399a4f457ecc93a
